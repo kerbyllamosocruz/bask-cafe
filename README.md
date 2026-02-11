@@ -33,12 +33,3 @@ The goal of this project is to:
 
 ---
 
-## 🚀 Future Improvements
-
-- Enhanced responsiveness and animations  
-- Additional dynamic features using PHP  
-- Content management improvements  
-- Performance and accessibility optimizations  
-
----
-
