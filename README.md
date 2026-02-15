@@ -33,3 +33,11 @@ The goal of this project is to:
 
 ---
 
+## 🔮 Future Improvements
+
+- Add an online ordering system for pickup or delivery  
+- Integrate a reservation or table booking feature  
+- Implement a content management system (CMS) for easier updates  
+- Add an admin dashboard for managing products and content  
+- Improve accessibility using better semantic HTML and ARIA attributes  
+- Enhance animations and interactive elements for better user experience  
